@@ -1,6 +1,5 @@
 <?php
 
-
 class Database {
 
     private static ?Database $instance = null;

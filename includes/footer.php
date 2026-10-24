@@ -1,3 +1,6 @@
+<?php
+$pathPrefix = $pathPrefix ?? './';
+?>
 </main>
 
 <footer class="bg-dark text-white py-4 mt-auto border-top border-secondary">
